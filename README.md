@@ -23,22 +23,20 @@
  </div>
  </div>
  
- ### Minhas skills:
+<br><h2 align="centre"><b>Minhas Skills</b></h2>
  
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html&logoColor=purple&labelColor=0D1117)&nbsp; 
-![FLUTTER](https://img.shields.io/badge/-FLUTTER-02569B?logo=flutter&logoColor=white&style=for-the-badge)&nbsp; 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=#1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=#1572B6)&nbsp;
 
+<br><h2 align="centre"><b>Estudando atualmente</b></h2>
 
-### Estudando neste momento:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Vue.JS](https://img.shields.io/badge/-Vue.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=#1572B6)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Contador de visitas</b></p>  
+<br><h2 align="centre"><b>Contador de visitas</b></h2>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielSales10}/count.svg" /></p> 
 <br>
 </div>
